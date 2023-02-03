@@ -1,1 +1,1 @@
-ajaust another readme
+Just another readme
